@@ -1,0 +1,7 @@
+The calculator must have the four standard arithmetic operations (add, subtract, multiply and divide)
+It must have a display register for the values entered and the results.
+It must have a 'clear' function to remove all memory content and initialise it.
+It must have an 'entry' function (method) to enter a value into the display register.
+It must have an 'equals' function to evaluate the arithmetic operation i.e. new_display_value = display_value OP memory value
+
+

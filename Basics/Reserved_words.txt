@@ -1,0 +1,10 @@
+__FILE__ __LINE__ BEGIN END
+ alias and begin break
+ case class def	end 
+ defined? ensure in	or	
+ self module redo super
+ next	rescue	then nil
+ retry	true not	return
+ undef unless until when
+ while yield do else
+ elsif false for if
